@@ -4,6 +4,8 @@ Fullstack Developer with 8+ years of experience in different market segments and
 
 ## Skills and Experience 🚀
 ### Frontend and Mobile
+* Javascript
+* Typescript
 * Angular
 * React
 * NextJS
@@ -11,14 +13,11 @@ Fullstack Developer with 8+ years of experience in different market segments and
 * Qwik
 * Svelte
 * Solid
-* Typescript
-* Javascript
 * HTML
 * CSS, SCSS
 * RxJs
 * PWA
 * Ionic
-* Micro-frontend
   
 ### Backend
 * Go
